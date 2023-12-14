@@ -13,6 +13,8 @@ Follow my Socials:
 https://www.twitter.com/InSALTed2
 - Instagram
 https://www.instagram.com/chris.jxz
+- Discord
+Username: itsinsulted or Insulted#5012
 
 <!---
 Insulted5012/Insulted5012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
