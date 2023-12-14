@@ -5,7 +5,7 @@ Hi, my name's Christopher. You can call me Chris. I like to do a variety of inte
 - Bonding with my family
 - And much more!
 ----------------------------------------------------------------------------------------------------------------------------------------
-But really, I like to provide Minecraft users an enhanced experience that I experience myself, so to honor that I created a seperate file holder for those who are interested in downloading certain files that I use when playing Minecraft. Although, some of which only work on the Bedrock version.
+But really, I like to provide Minecraft users an enhanced experience that I experience myself, so to honor that I created a seperate file holder for those who are interested in downloading certain files that I use when playing Minecraft. Although, some of which only work on the Bedrock version. So for now, enjoy the files that I publish on my new repository called "Minecraft-Bedrock-Extensions" and explore the variety of worlds, addons, and mods that I have added from my personal library of Minecraft files for others to enjoy.
 
 <!---
 Insulted5012/Insulted5012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
