@@ -9,6 +9,7 @@ But really, I like to provide Minecraft users an enhanced experience that I expe
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Follow my Socials:
+-
 - Twitter
 https://www.twitter.com/InSALTed2
 - Instagram
