@@ -14,6 +14,8 @@ Follow my Socials:
 https://www.instagram.com/its.du4ne
 - Discord
 Username: itsinsulted or Insulted#5012
+- Email
+novadux@hotmail.com
 
 <!---
 Insulted5012/Insulted5012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
