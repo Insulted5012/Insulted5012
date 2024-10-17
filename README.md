@@ -10,11 +10,11 @@ But really, I like to provide Minecraft users an enhanced experience that I expe
 ----------------------------------------------------------------------------------------------------------------------------------------
 Follow my Socials:
 -
-- Instagram
+- Instagram:
 https://www.instagram.com/its.du4ne
-- Discord
+- Discord:
 Username: itsinsulted or Insulted#5012
-- Email
+- Email:
 novadux@hotmail.com
 
 <!---
