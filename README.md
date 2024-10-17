@@ -12,7 +12,7 @@ Follow my Socials:
 -
 - Instagram:
 https://www.instagram.com/its.du4ne
-- Discord:
+- Discord
 Username: itsinsulted or Insulted#5012
 - Email:
 novadux@hotmail.com
