@@ -1,4 +1,4 @@
-Hi, my name's Christopher. You can call me Chris. I like to do a variety of interesting things, some of which include the following: 
+Hi, welcome to my profile. I like to do a variety of things, some of which include the following:
 - Playing Soccer
 - Going to parties
 - Hanging out with my friends
@@ -10,10 +10,8 @@ But really, I like to provide Minecraft users an enhanced experience that I expe
 ----------------------------------------------------------------------------------------------------------------------------------------
 Follow my Socials:
 -
-- Twitter
-https://www.twitter.com/InSALTed2
 - Instagram
-https://www.instagram.com/chris.jxz
+https://www.instagram.com/its.du4ne
 - Discord
 Username: itsinsulted or Insulted#5012
 
