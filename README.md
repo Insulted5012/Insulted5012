@@ -5,7 +5,7 @@ Hi, welcome to my profile. I like to do a variety of things, some of which inclu
 - Bonding with my family
 - And much more!
 ----------------------------------------------------------------------------------------------------------------------------------------
-But really, I like to provide Minecraft users an enhanced experience that I experience myself, so to honor that I created a seperate file holder for those who are interested in downloading certain files that I use when playing Minecraft. Although, some of which only work on the Bedrock version. So for now, enjoy the files that I publish on the repository called "Minecraft-Bedrock-Extensions-And-Addons" and explore the variety of worlds, addons, and mods that I have added from my personal library of Minecraft files for others to enjoy.
+I have a few personal hobbies of mine and some unique information that I would think could benefit you and others. So with that in mind, I provided several repositories, some of which are for gaming and others for real life scenarios and important information that I would think could help you in life. Who knows, maybe I could be the reason that you'd be successful one day? If so, I'm glad that I helped you in your journey. Anyway, explore my pinned repositories in my profile and check them out. Enjoy!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Follow my Socials:
